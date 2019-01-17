@@ -1,0 +1,5 @@
+10;Mouse;25.00;12
+20;Impressora;300.00;5
+30;Monitor;450;8
+40;Pen Drive;30.00;22
+50;HD Externo;220.00;16

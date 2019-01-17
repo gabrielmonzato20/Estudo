@@ -1,0 +1,10 @@
+1;Excel Módulo I; 500.00
+2;Excel Módulo II; 800.00
+3;Excel VBA Módulo I; 1000.00
+4;Excel VBA Módulo II; 1200.00
+5;SQL Módulo I; 1100.00
+6;SQL Módulo II; 1300.00
+7;SQL Módulo III;1450.00
+8;SQL com BI; 1450.00
+9;C# Fundamentos; 1450.00
+10;C# Com Acesso a Dados; 1500.00
